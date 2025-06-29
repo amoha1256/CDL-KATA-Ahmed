@@ -1,6 +1,6 @@
 # Ahmed-CDL-Test
 
-#What it does
+What it does
 
 Lets you scan items like A, B, C, D.
 
